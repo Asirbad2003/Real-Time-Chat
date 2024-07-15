@@ -4,7 +4,7 @@
 This is a real-time chat website that allows users to connect with each other and chat in real-time. It was built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), Socket.io, Redux Toolkit, and Tailwind CSS. 
 
 - If you liked it then give this Repository a Star⭐
-- Youtube Demo : <a target="__blanck" href="https://www.loom.com/share/82af54fe871f40c6b094d70985b34b46?sid=a9c1a755-5d75-4b55-98cc-b9efcb9f28d1">Click On Me</a>
+- Demo : <a target="__blanck" href="https://www.loom.com/share/82af54fe871f40c6b094d70985b34b46?sid=a9c1a755-5d75-4b55-98cc-b9efcb9f28d1">Click On Me</a>
 
 ## Technologies Used
 
